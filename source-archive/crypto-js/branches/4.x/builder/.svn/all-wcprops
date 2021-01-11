@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/621/branches/4.x/builder
+END
+template.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/621/branches/4.x/builder/template.php
+END
+config.yml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/621/branches/4.x/builder/config.yml
+END
+builder.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/621/branches/4.x/builder/builder.php
+END

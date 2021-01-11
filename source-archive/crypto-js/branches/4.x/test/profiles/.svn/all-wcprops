@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/554/branches/4.x/test/profiles
+END
+evpkdf-profile.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/554/branches/4.x/test/profiles/evpkdf-profile.js
+END
+rabbit-profile.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/554/branches/4.x/test/profiles/rabbit-profile.js
+END
+sha512-profile.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/554/branches/4.x/test/profiles/sha512-profile.js
+END
+md5-profile.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/554/branches/4.x/test/profiles/md5-profile.js
+END
+pbkdf2-profile.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/554/branches/4.x/test/profiles/pbkdf2-profile.js
+END
+sha256-profile.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/554/branches/4.x/test/profiles/sha256-profile.js
+END
+hmac-profile.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/554/branches/4.x/test/profiles/hmac-profile.js
+END
+aes-profile.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/554/branches/4.x/test/profiles/aes-profile.js
+END
+rc4-profile.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/554/branches/4.x/test/profiles/rc4-profile.js
+END
+des-profile.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/554/branches/4.x/test/profiles/des-profile.js
+END
+tripledes-profile.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/554/branches/4.x/test/profiles/tripledes-profile.js
+END
+sha1-profile.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/554/branches/4.x/test/profiles/sha1-profile.js
+END

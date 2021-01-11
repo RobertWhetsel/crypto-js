@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/334/tags/2.2/src
+END
+Rabbit.js
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/334/tags/2.2/src/Rabbit.js
+END
+MD5.js
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/334/tags/2.2/src/MD5.js
+END
+MARC4.js
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/334/tags/2.2/src/MARC4.js
+END
+CBC-nopad.js
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/334/tags/2.2/src/CBC-nopad.js
+END
+OFB.js
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/334/tags/2.2/src/OFB.js
+END
+PBKDF2Async.js
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/334/tags/2.2/src/PBKDF2Async.js
+END
+CBC.js
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/334/tags/2.2/src/CBC.js
+END
+SHA256.js
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/334/tags/2.2/src/SHA256.js
+END
+PBKDF2.js
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/334/tags/2.2/src/PBKDF2.js
+END
+AES.js
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/334/tags/2.2/src/AES.js
+END
+HMAC.js
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/334/tags/2.2/src/HMAC.js
+END
+CryptoMath.js
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/334/tags/2.2/src/CryptoMath.js
+END
+SHA1.js
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/334/tags/2.2/src/SHA1.js
+END
+Crypto.js
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/334/tags/2.2/src/Crypto.js
+END

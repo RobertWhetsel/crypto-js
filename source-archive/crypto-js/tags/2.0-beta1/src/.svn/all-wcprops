@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/334/tags/2.0-beta1/src
+END
+Rabbit.js
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/334/tags/2.0-beta1/src/Rabbit.js
+END
+MD5.js
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/334/tags/2.0-beta1/src/MD5.js
+END
+MARC4.js
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/334/tags/2.0-beta1/src/MARC4.js
+END
+OFB.js
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/334/tags/2.0-beta1/src/OFB.js
+END
+CBC.js
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/334/tags/2.0-beta1/src/CBC.js
+END
+SHA256.js
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/334/tags/2.0-beta1/src/SHA256.js
+END
+PBKDF2.js
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/334/tags/2.0-beta1/src/PBKDF2.js
+END
+AES.js
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/334/tags/2.0-beta1/src/AES.js
+END
+HMAC.js
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/334/tags/2.0-beta1/src/HMAC.js
+END
+CryptoMath.js
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/334/tags/2.0-beta1/src/CryptoMath.js
+END
+SHA1.js
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/334/tags/2.0-beta1/src/SHA1.js
+END
+Crypto.js
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/334/tags/2.0-beta1/src/Crypto.js
+END

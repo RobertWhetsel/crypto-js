@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/431/tags/2.5.3/builder/compiler
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/431/tags/2.5.3/builder/compiler/COPYING
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/431/tags/2.5.3/builder/compiler/README
+END
+compiler.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/431/tags/2.5.3/builder/compiler/compiler.jar
+END

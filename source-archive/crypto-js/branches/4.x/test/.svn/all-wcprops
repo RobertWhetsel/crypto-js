@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/664/branches/4.x/test
+END
+lint.html
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/583/branches/4.x/test/lint.html
+END
+benchmark.html
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/664/branches/4.x/test/benchmark.html
+END
+unit.html
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/648/branches/4.x/test/unit.html
+END
+profile.html
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/554/branches/4.x/test/profile.html
+END

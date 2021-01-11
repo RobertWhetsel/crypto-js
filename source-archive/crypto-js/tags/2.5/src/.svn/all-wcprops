@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/386/tags/2.5/src
+END
+SHA256.js
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/386/tags/2.5/src/SHA256.js
+END
+PBKDF2.js
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/386/tags/2.5/src/PBKDF2.js
+END
+AES.js
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/386/tags/2.5/src/AES.js
+END
+HMAC.js
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/386/tags/2.5/src/HMAC.js
+END
+CryptoMath.js
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/386/tags/2.5/src/CryptoMath.js
+END
+DES.js
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/386/tags/2.5/src/DES.js
+END
+SHA1.js
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/386/tags/2.5/src/SHA1.js
+END
+Crypto.js
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/386/tags/2.5/src/Crypto.js
+END
+BlockModes.js
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/386/tags/2.5/src/BlockModes.js
+END
+Rabbit.js
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/386/tags/2.5/src/Rabbit.js
+END
+MD5.js
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/386/tags/2.5/src/MD5.js
+END
+MARC4.js
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/386/tags/2.5/src/MARC4.js
+END
+PBKDF2Async.js
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/386/tags/2.5/src/PBKDF2Async.js
+END

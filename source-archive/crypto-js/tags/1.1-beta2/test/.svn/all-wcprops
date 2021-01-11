@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/334/tags/1.1-beta2/test
+END
+SHA1-test.html
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/334/tags/1.1-beta2/test/SHA1-test.html
+END
+Crypto-profile.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/334/tags/1.1-beta2/test/Crypto-profile.html
+END
+Rabbit-test.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/334/tags/1.1-beta2/test/Rabbit-test.html
+END
+MD5-profile.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/334/tags/1.1-beta2/test/MD5-profile.html
+END
+MARC4-test.html
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/334/tags/1.1-beta2/test/MARC4-test.html
+END
+SHA256-test.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/334/tags/1.1-beta2/test/SHA256-test.html
+END
+PBKDF2-test.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/334/tags/1.1-beta2/test/PBKDF2-test.html
+END
+AES-test.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/334/tags/1.1-beta2/test/AES-test.html
+END
+HMAC-test.html
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/334/tags/1.1-beta2/test/HMAC-test.html
+END
+SHA1-profile.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/334/tags/1.1-beta2/test/SHA1-profile.html
+END
+Crypto-test.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/334/tags/1.1-beta2/test/Crypto-test.html
+END
+Rabbit-profile.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/334/tags/1.1-beta2/test/Rabbit-profile.html
+END
+MD5-test.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/334/tags/1.1-beta2/test/MD5-test.html
+END
+MARC4-profile.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/334/tags/1.1-beta2/test/MARC4-profile.html
+END
+HMAC-profile.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/334/tags/1.1-beta2/test/HMAC-profile.html
+END
+PBKDF2-profile.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/334/tags/1.1-beta2/test/PBKDF2-profile.html
+END
+AES-profile.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/334/tags/1.1-beta2/test/AES-profile.html
+END
+SHA256-profile.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/334/tags/1.1-beta2/test/SHA256-profile.html
+END

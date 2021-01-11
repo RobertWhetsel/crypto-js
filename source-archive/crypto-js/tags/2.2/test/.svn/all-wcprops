@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/334/tags/2.2/test
+END
+TestSuite.html
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/334/tags/2.2/test/TestSuite.html
+END
+SHA1-profile.html
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/334/tags/2.2/test/SHA1-profile.html
+END
+MARC4-test.js
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/334/tags/2.2/test/MARC4-test.js
+END
+PBKDF2-progress-demo.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/334/tags/2.2/test/PBKDF2-progress-demo.html
+END
+AES-test.js
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/334/tags/2.2/test/AES-test.js
+END
+SHA256-test.js
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/334/tags/2.2/test/SHA256-test.js
+END
+HMAC-test.js
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/334/tags/2.2/test/HMAC-test.js
+END
+PBKDF2-test.js
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/334/tags/2.2/test/PBKDF2-test.js
+END
+Rabbit-profile.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/334/tags/2.2/test/Rabbit-profile.html
+END
+MARC4-profile.html
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/334/tags/2.2/test/MARC4-profile.html
+END
+Crypto-test.js
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/334/tags/2.2/test/Crypto-test.js
+END
+AES-profile.html
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/334/tags/2.2/test/AES-profile.html
+END
+PBKDF2-profile.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/334/tags/2.2/test/PBKDF2-profile.html
+END
+HMAC-profile.html
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/334/tags/2.2/test/HMAC-profile.html
+END
+SHA256-profile.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/334/tags/2.2/test/SHA256-profile.html
+END
+MD5-test.js
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/334/tags/2.2/test/MD5-test.js
+END
+Crypto-profile.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/334/tags/2.2/test/Crypto-profile.html
+END
+SHA1-test.js
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/334/tags/2.2/test/SHA1-test.js
+END
+MD5-profile.html
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/334/tags/2.2/test/MD5-profile.html
+END
+Rabbit-test.js
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/334/tags/2.2/test/Rabbit-test.js
+END

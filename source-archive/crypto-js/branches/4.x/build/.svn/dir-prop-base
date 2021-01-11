@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 2
+*
+
+K 14
+tsvn:autoprops
+V 36
+*.js = svn:mime-type=text/javascript
+END

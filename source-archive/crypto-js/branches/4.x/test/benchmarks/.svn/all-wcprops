@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/664/branches/4.x/test/benchmarks
+END
+sha3-benchmark.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/648/branches/4.x/test/benchmarks/sha3-benchmark.js
+END
+lib-wordarray-benchmark.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/664/branches/4.x/test/benchmarks/lib-wordarray-benchmark.js
+END
+sha224-benchmark.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/645/branches/4.x/test/benchmarks/sha224-benchmark.js
+END
+sha512-benchmark.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/623/branches/4.x/test/benchmarks/sha512-benchmark.js
+END
+md5-benchmark.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/664/branches/4.x/test/benchmarks/md5-benchmark.js
+END
+enc-hex-benchmark.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/664/branches/4.x/test/benchmarks/enc-hex-benchmark.js
+END
+sha256-benchmark.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/664/branches/4.x/test/benchmarks/sha256-benchmark.js
+END
+enc-utf8-benchmark.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/664/branches/4.x/test/benchmarks/enc-utf8-benchmark.js
+END
+sha384-benchmark.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/646/branches/4.x/test/benchmarks/sha384-benchmark.js
+END
+enc-latin1-benchmark.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/664/branches/4.x/test/benchmarks/enc-latin1-benchmark.js
+END
+sha1-benchmark.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/664/branches/4.x/test/benchmarks/sha1-benchmark.js
+END
